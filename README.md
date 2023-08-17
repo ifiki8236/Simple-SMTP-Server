@@ -1,2 +1,5 @@
 # Simple SMTP Server
  A simple email server written in python
+    This is a simple python script that can be used to send emails. It uses the smtplib module in order to accomplish this. You will need to put in your SMTP email web address(which can be found online through a Google search on the email service you use). To set up the script to run first you must input your email address and email password in order to set up a host email to compose and send your emails. Port 587 is the port for emailing. 
+    With the client_email section you can either place in one email, or create an array/list of emails in order to send emails by using a for loop to iterate through each index. This is just a simple script, and of course I am working on a more robust script that integrates into websites for marketing and sending email updates to administrators.
+    ENJOY!
